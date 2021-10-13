@@ -1,8 +1,8 @@
 ## Preliminaries
 - Clone the repository
   ```
-  git clone git@github.com:nagyrajmund/gesticulating_agent_unity.git
-  cd gesticulating_agent_unity
+  git clone https://github.com/ramfalas/gesturebot.git
+  cd gesturebot
  
   git submodule init
   git submodule update
